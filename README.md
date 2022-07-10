@@ -46,5 +46,5 @@ For Store 1 – Build prediction models to forecast demand
   
 Select the model, which gives best accuracy.
 
-All the best!
+All the best!!
 
