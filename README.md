@@ -1,6 +1,4 @@
-# Data Science with Python: Project 4
-
-### Retail Analysis with Walmart Data/Project 4
+## Retail Analysis with Walmart Data/Project 4
 
 DESCRIPTION
 
